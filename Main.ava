@@ -2,7 +2,7 @@ Actually bots can work, I quickly coded a simple bot that will tell me if a new 
 
 
 import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Document;https://github.com/simar1998/ltt-storewatcher/blob/main/Main,java
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
