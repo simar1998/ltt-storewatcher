@@ -24,7 +24,7 @@ public class Main {
                 if (tempElements.size() != previousElements.size()){
                     System.out.println("Difference Found!");
                     System.out.println("Printing Links perhaps there is a 3080 here");;
-                    System.out.println(tempElements.toString());
+                    System.out.println(doc.toString());
                     System.exit(0);
                 }
                 else {
